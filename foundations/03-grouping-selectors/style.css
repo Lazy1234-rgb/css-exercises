@@ -1,0 +1,14 @@
+.First {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.Second {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.First,
+.Second {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
